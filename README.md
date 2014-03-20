@@ -27,7 +27,7 @@ or
 ## Community
 
 You can view our other [repositories](https://github.com/dhtml)
-and our (php framework)[]
+and our (php framework)[https://github.com/dhtml/dhtmlframework]
  We use the [dhtmlframework group](https://groups.google.com/forum/#!forum/dhtmlframework) for issues that are being tracked here on GitHub.
 
 You can chat with us on facebook http://facebook.com/dhtml5 
