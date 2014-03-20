@@ -2,6 +2,7 @@
 
 A Simple Employee Form written in php. It accepts user inputs and returns sql queries as the end result.
 
+It's created and developed by Anthony Ogundipe, CEO of [DHTMLExtreme](http://www.dhtmlextreme.net).
 
 ## Features
 
